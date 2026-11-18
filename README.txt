@@ -1,0 +1,1 @@
+Optional: put your profile picture in this folder if your course asks for one. The starter page currently uses a letter avatar, so it works without a photo.
